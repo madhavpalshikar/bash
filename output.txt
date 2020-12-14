@@ -1,0 +1,11 @@
+total 0
+drwxr-xr-x 1 ubuntu ubuntu 4096 Dec 14 23:45 .
+drwxr-xr-x 1 ubuntu ubuntu 4096 Dec 14 22:35 ..
+-rwxr-xr-x 1 root   root    391 Dec 14 23:08 conditionals.sh
+-rw-r--r-- 1 ubuntu ubuntu    0 Dec 14 23:45 error.txt
+-rwxr-xr-x 1 root   root    365 Dec 14 23:45 file-ops.sh
+-rw-r--r-- 1 ubuntu ubuntu   49 Dec 14 22:47 file.txt
+-rwxr-xr-x 1 ubuntu ubuntu  232 Dec 14 22:46 helloscript.sh
+-rwxr-xr-x 1 root   root    251 Dec 14 23:33 io.sh
+-rwxr-xr-x 1 root   root    552 Dec 14 23:25 loops.sh
+-rw-r--r-- 1 ubuntu ubuntu    0 Dec 14 23:45 output.txt
