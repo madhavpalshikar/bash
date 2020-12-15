@@ -22,3 +22,16 @@ echo "Enter you age:"
 read st2
 
 echo "Your name is $st1 and your age is $st2"
+
+
+#concatenating
+c=$st1$st2
+echo $c
+
+#uppercase
+echo ${st1^}
+
+#lowercase
+echo ${st2^^}
+
+
