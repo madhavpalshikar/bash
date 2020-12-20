@@ -9,3 +9,6 @@ curl ${url} -O
 
 # new filename
 curl ${url} > newFileName.dat
+
+# -I give info about file before download 
+curl -I ${url}
